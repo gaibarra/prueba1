@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c766c27-6427-4378-a4f1-e09e0953fdda" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/bootstrap/scss/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/bootstrap/scss/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/bootstrap/scss/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/bootstrap/scss/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/bootstrap/scss/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/bootstrap/scss/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/fontawesome-free/scss/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/fontawesome-free/scss/brands.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/fontawesome-free/scss/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/fontawesome-free/scss/fontawesome.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/fontawesome-free/scss/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/fontawesome-free/scss/regular.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/fontawesome-free/scss/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/fontawesome-free/scss/solid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/fontawesome-free/scss/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/base/vendor/fontawesome-free/scss/v4-shims.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dto/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dto/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formatmodelo/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/formatmodelo/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1QLXBlSeixasJ5tolwLiSfutqkY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="formatmodelo" type="Python.DjangoServer" factoryName="Django server">
+      <module name="formatmodelo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="formatmodelo.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c766c27-6427-4378-a4f1-e09e0953fdda" name="Default Changelist" comment="" />
+      <created>1567550716185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567550716185</updated>
+      <workItem from="1567550717372" duration="813000" />
+      <workItem from="1567551693461" duration="224000" />
+      <workItem from="1567552058941" duration="154000" />
+      <workItem from="1567552234965" duration="338000" />
+      <workItem from="1567552776396" duration="115000" />
+      <workItem from="1567552937197" duration="247000" />
+      <workItem from="1567553223103" duration="44000" />
+      <workItem from="1567553297927" duration="43000" />
+      <workItem from="1567553379152" duration="192000" />
+      <workItem from="1567554078787" duration="7000" />
+      <workItem from="1567554107037" duration="17000" />
+      <workItem from="1567554875741" duration="141000" />
+      <workItem from="1567555055563" duration="91000" />
+      <workItem from="1567555301805" duration="128000" />
+      <workItem from="1567555466969" duration="89000" />
+      <workItem from="1567555588758" duration="43000" />
+      <workItem from="1567555800575" duration="233000" />
+      <workItem from="1567556116973" duration="92000" />
+      <workItem from="1567556391451" duration="233000" />
+      <workItem from="1567556768378" duration="452000" />
+      <workItem from="1567557332983" duration="282000" />
+      <workItem from="1567557647749" duration="598000" />
+      <workItem from="1567558305874" duration="551000" />
+      <workItem from="1567558911577" duration="3803000" />
+      <workItem from="1567563090205" duration="42000" />
+      <workItem from="1567563169085" duration="950000" />
+      <workItem from="1567564145284" duration="3336000" />
+      <workItem from="1567568214145" duration="1066000" />
+      <workItem from="1567601613152" duration="2534000" />
+      <workItem from="1567612109124" duration="1720000" />
+      <workItem from="1567614812782" duration="156000" />
+      <workItem from="1567615003476" duration="114000" />
+      <workItem from="1567615157817" duration="641000" />
+      <workItem from="1567616226108" duration="2017000" />
+      <workItem from="1567618582769" duration="1425000" />
+      <workItem from="1567626882020" duration="20000" />
+      <workItem from="1567626947331" duration="153000" />
+      <workItem from="1567627137150" duration="3187000" />
+      <workItem from="1567630595429" duration="1341000" />
+      <workItem from="1567636203487" duration="177000" />
+      <workItem from="1567636457162" duration="734000" />
+      <workItem from="1567637350698" duration="36000" />
+      <workItem from="1567637429835" duration="54000" />
+      <workItem from="1567637527628" duration="122000" />
+      <workItem from="1567637701492" duration="3141000" />
+      <workItem from="1567640983441" duration="119000" />
+      <workItem from="1567641172517" duration="1203000" />
+      <workItem from="1567689980007" duration="66000" />
+      <workItem from="1567690065615" duration="18000" />
+      <workItem from="1567690095980" duration="1635000" />
+      <workItem from="1567691758096" duration="103000" />
+      <workItem from="1567692479851" duration="1797000" />
+      <workItem from="1567694370458" duration="114000" />
+      <workItem from="1567694577313" duration="1192000" />
+      <workItem from="1567695790939" duration="405000" />
+      <workItem from="1567696751111" duration="103000" />
+      <workItem from="1567696871720" duration="88000" />
+      <workItem from="1567697053885" duration="1376000" />
+      <workItem from="1567699726511" duration="261000" />
+      <workItem from="1567700008451" duration="316000" />
+      <workItem from="1567703579143" duration="120000" />
+      <workItem from="1567788606469" duration="29000" />
+      <workItem from="1567788654519" duration="47000" />
+      <workItem from="1568141452756" duration="115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

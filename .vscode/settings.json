@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true,
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.openExplorerOnEnd": true,
+    "debug.showInStatusBar": "always"
+}
